@@ -7,3 +7,4 @@ def abbr(frasa):
     return abbr
 frasa = "я люблю питон"
 print(abbr(frasa))
+
